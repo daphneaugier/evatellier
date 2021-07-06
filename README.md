@@ -5,7 +5,7 @@ Can be found at www.evatellier.com
 
 
 Technologies/Frameworks used : 
-    - HTML
-    - CSS
-    - Javascript
-    - Bootstrap
+    * HTML
+    * CSS
+    * Javascript
+    * Bootstrap
