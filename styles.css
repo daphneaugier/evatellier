@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Mansalva&family=Yusei+Magic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap');
 
 body, html {
     height: 100%;
     margin: 0 auto;
     text-align: center;
     scroll-behavior: smooth;
-    background-color:rgb(248, 229, 217);
+    background-color:rgb(253, 249, 249);
+}
+
+body {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 25px;
 }
 
 .navbar-brand {
@@ -14,9 +20,8 @@ body, html {
     font-style: bold;
 }
 
-body {
-    font-family: 'Yusei Magic', sans-serif;
-    font-size: 25px;
+.nav-item {
+    color :rgb(35, 59, 35)
 }
 
 a {
